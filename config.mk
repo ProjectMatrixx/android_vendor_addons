@@ -230,6 +230,10 @@ PRODUCT_PACKAGES += \
     IconShapeTeardropOverlay \
     IconShapeVesselOverlay
 
+# Navbar
+PRODUCT_PACKAGES += \
+    GesturalNavigationOverlayHidden
+
 # Navbar styles
 PRODUCT_PACKAGES += \
     NavbarAndroidOverlay \
