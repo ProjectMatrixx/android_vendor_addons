@@ -356,6 +356,11 @@ PRODUCT_PACKAGES += \
     XperiaWiFiOverlay \
     ZigZagWiFiOverlay
 
+# Brightness slider styles
+PRODUCT_PACKAGES += \
+    BrightnessSliderFilledOverlay \
+    BrightnessSliderThinOverlay
+
 # Themes
 PRODUCT_PACKAGES += \
     AndroidBlackThemeOverlay
