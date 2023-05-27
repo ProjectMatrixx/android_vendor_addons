@@ -1,0 +1,29 @@
+prebuilt_etc {
+    name: "privapp-permissions-com.chiller3.bcr.xml",
+    src: "privapp-permissions-com.chiller3.bcr.xml",
+    product_specific: true,
+    relative_install_path: "permissions",
+}
+
+prebuilt_etc {
+    name: "sysconfig-com.chiller3.bcr.xml",
+    src: "sysconfig-com.chiller3.bcr.xml",
+    product_specific: true,
+    relative_install_path: "sysconfig",
+}
+
+android_app_import {
+    name: "Bcr",
+    apk: "bcr.apk",
+    preprocessed: true,
+    presigned: true,
+    privileged: true,
+    product_specific: true,
+    dex_preopt: {
+        enabled: false,
+    },
+    required: [
+        "privapp-permissions-com.chiller3.bcr.xml",
+        "sysconfig-com.chiller3.bcr.xml",
+    ],
+}
