@@ -1,0 +1,5 @@
+runtime_resource_overlay {
+    name: "BrightnessSliderNeumorphThumbOverlay",
+    theme: "BrightnessSliderNeumorphThumb",
+    product_specific: true,
+}
