@@ -258,6 +258,11 @@ PRODUCT_PACKAGES += \
     NavbarSammyOverlay \
     NavbarTecnoCamonOverlay
 
+# Prebuilt packages
+PRODUCT_PACKAGES += \
+    Auxio \
+    ViaBrowser
+    
 # Signal Icons
 PRODUCT_PACKAGES += \
     AquariumSignalOverlay \
