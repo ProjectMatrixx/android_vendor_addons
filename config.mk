@@ -32,6 +32,9 @@ PRODUCT_COPY_FILES += \
     vendor/addons/prebuilt/product/etc/sysconfig/nexus.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/sysconfig/nexus.xml \
     vendor/addons/prebuilt/product/etc/sysconfig/pixel_2016_exclusive.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/sysconfig/pixel_2016_exclusive.xml
 
+# Bootanimation
+include vendor/addons/prebuilt/bootanimation/bootanimation.mk
+
 # Fonts
 PRODUCT_PACKAGES += \
     fonts_customization.xml \
