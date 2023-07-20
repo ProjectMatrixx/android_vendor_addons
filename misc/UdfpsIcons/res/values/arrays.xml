@@ -18,7 +18,6 @@
 
    <string-array name="udfps_icons">
         <item>udfps_icon_default</item>
-        <item>udfps_icon_crdroid</item>
         <item>udfps_icon_miui</item>
         <item>udfps_icon_op</item>
         <item>udfps_icon_op_2077</item>
@@ -31,6 +30,7 @@
         <item>udfps_icon_default_5</item>
         <item>udfps_icon_huawei</item>
         <item>udfps_icon_madness_v2</item>
+        <item>udfps_icon_matrixx</item>        
         <item>udfps_icon_unfunnyguy</item>
         <item>udfps_icon_yield</item>
         <item>udfps_icon_arc_reactor</item>
