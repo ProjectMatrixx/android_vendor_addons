@@ -31,6 +31,16 @@ PRODUCT_COPY_FILES += \
 # Bootanimation
 include vendor/addons/prebuilt/bootanimation/bootanimation.mk
 
+# Clocks
+PRODUCT_PACKAGES += \
+    SystemUIClocks-BigNum \
+    SystemUIClocks-Calligraphy \
+    SystemUIClocks-Flex \
+    SystemUIClocks-Growth \
+    SystemUIClocks-Handwritten \
+    SystemUIClocks-Inflate \
+    SystemUIClocks-NumOverlap
+
 # Fonts
 PRODUCT_PACKAGES += \
     fonts_customization.xml \
