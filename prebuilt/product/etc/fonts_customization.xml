@@ -499,6 +499,13 @@
         <font weight="300" style="normal">Romantiques.ttf</font>
     </family>
 
+     <!-- Rosemary -->
+    <family customizationType="new-named-family" name="rosemary">
+        <font weight="300" style="normal">Rosemary-Regular.ttf</font>
+    </family>
+    <alias name="rosemary-semi-bold" to="rosemary" weight="600" />
+    <alias name="rosemary-bold" to="rosemary" weight="700" />
+
     <!-- Roundheads -->
     <family customizationType="new-named-family" name="Roundheads">
         <font weight="300" style="normal">Roundheads.ttf</font>
