@@ -155,6 +155,7 @@ PRODUCT_PACKAGES += \
     FontSonySketchOverlay \
     FontStoropiaOverlay \
     FontSurferOverlay \
+    FontRosemaryOverlay \
     FontUbuntuOverlay
 
 # Icon Packs
