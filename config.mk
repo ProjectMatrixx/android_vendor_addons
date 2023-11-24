@@ -266,6 +266,10 @@ PRODUCT_PACKAGES += \
     Auxio \
     ViaBrowser
     
+# QS UI Style
+PRODUCT_PACKAGES += \
+    A11QSUI
+
 # Signal Icons
 PRODUCT_PACKAGES += \
     AquariumSignalOverlay \
