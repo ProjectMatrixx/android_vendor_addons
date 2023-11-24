@@ -326,7 +326,21 @@ PRODUCT_PACKAGES += \
 
 # Themes
 PRODUCT_PACKAGES += \
-    AndroidBlackThemeOverlay
+    AndroidBlackThemeOverlay \
+    QSOutline \
+    QSTwoToneAccent \
+    QSTwoToneAccentTrans \
+    QSShaded \
+    QSCyberPunk \
+    QSNeumorph \
+    QSReflected \
+    QSSurround \
+    QSThin
+
+# QS UI Style
+PRODUCT_PACKAGES += \
+    A11QSUI \
+    ReevaluateSysUIOverlay
 
 # Include {Lato,Rubik} fonts
 $(call inherit-product-if-exists, external/google-fonts/lato/fonts.mk)
