@@ -149,6 +149,64 @@ PRODUCT_PACKAGES += \
     FontRosemaryOverlay \
     FontUbuntuOverlay
 
+# Signal Icons
+PRODUCT_PACKAGES += \
+    AquariumSignalOverlay \
+    AuroraSignalOverlay \
+    BarsSignalOverlay \
+    ButterflySignalOverlay \
+    CircleSignalOverlay \
+    DaunSignalOverlay \
+    DecSignalOverlay \
+    DeepSignalOverlay \
+    DoraSignalOverlay \
+    EqualSignalOverlay \
+    FaintUISignalOverlay \
+    FanSignalOverlay \
+    ForlornSignalOverlay \
+    GradiconSignalOverlay \
+    HuaweiSignalOverlay \
+    InsideSignalOverlay \
+    IosSignalOverlay \
+    MiniSignalOverlay \
+    NothingDotSignalOverlay \
+    OdinSignalOverlay \
+    PillsSignalOverlay \
+    PlumpySignalOverlay \
+    RelSignalOverlay \
+    RomanSignalOverlay \
+    RoundSignalOverlay \
+    ScrollSignalOverlay \
+    SeaSignalOverlay \
+    SneakySignalOverlay \
+    StackSignalOverlay \
+    StrokeSignalOverlay \
+    WannuiSignalOverlay \
+    WavySignalOverlay \
+    WindowsSignalOverlay \
+    WingSignalOverlay \
+    XperiaSignalOverlay \
+    ZigZagSignalOverlay
+
+# WiFi Icons
+PRODUCT_PACKAGES += \
+    AuroraWiFiOverlay \
+    BarsWiFiOverlay \
+    DoraWiFiOverlay \
+    FaintUIWiFiOverlay \
+    ForlornWiFiOverlay \
+    GradiconWiFiOverlay \
+    InsideWiFiOverlay \
+    NothingDotWiFiOverlay \
+    PlumpyWiFiOverlay \
+    RoundWiFiOverlay \
+    SneakyWiFiOverlay \
+    StrokeWiFiOverlay \
+    WavyWiFiOverlay \
+    WeedWiFiOverlay \
+    XperiaWiFiOverlay \
+    ZigZagWiFiOverlay
+
 # Include {Lato,Rubik} fonts
 $(call inherit-product-if-exists, external/google-fonts/lato/fonts.mk)
 $(call inherit-product-if-exists, external/google-fonts/rubik/fonts.mk)
