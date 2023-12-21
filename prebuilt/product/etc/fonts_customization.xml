@@ -181,6 +181,20 @@
         <font weight="300" style="normal">ELRIOTT2.ttf</font>
     </family>
 
+    <family customizationType="new-named-family" name="evolvesans">
+        <font weight="400" style="normal">EvolveSans.ttf</font>
+    </family>
+    <alias name="evolvesans-semi-bold" to="evolvesans" weight="600" />
+    <alias name="evolvesans-bold" to="evolvesans" weight="700" />
+    <alias name="times" to="evolvesans" />
+    <alias name="times new roman" to="evolvesans" />
+    <alias name="palatino" to="evolvesans" />
+    <alias name="georgia" to="evolvesans" />
+    <alias name="baskerville" to="evolvesans" />
+    <alias name="goudy" to="evolvesans" />
+    <alias name="fantasy" to="evolvesans" />
+    <alias name="ITC Stone Serif" to="evolvesans" />
+
     <!-- Exotwo -->
     <family customizationType="new-named-family" name="exotwo">
         <font weight="400" style="normal">Exotwo.ttf</font>
