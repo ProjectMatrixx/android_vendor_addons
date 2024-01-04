@@ -343,31 +343,10 @@ PRODUCT_PACKAGES += \
 
 # Themes
 PRODUCT_PACKAGES += \
-    AndroidBlackThemeOverlay
-
-# UI styles
-PRODUCT_PACKAGES += \
+    AndroidBlackThemeOverlay \
     AndroidEspressoThemeOverlay \
     AndroidSnowPaintDropThemeOverlay \
-    AndroidVividThemeOverlay \
-    NexodusThemeAndroidOverlay \
-    NexodusThemeSettingsOverlay \
-    NexodusThemeSystemUIOverlay \
-    PacleggersThemeAndroidOverlay \
-    PacleggersThemeSettingsOverlay \
-    PacleggersThemeSystemUIOverlay \
-    ShishuAmalgamationThemeAndroidOverlay \
-    ShishuAmalgamationThemeSettingsOverlay \
-    ShishuAmalgamationThemeSystemUIOverlay \
-    ShishuIllusionsThemeAndroidOverlay \
-    ShishuIllusionsThemeSettingsOverlay \
-    ShishuIllusionsThemeSystemUIOverlay \
-    ShishuImmensityThemeAndroidOverlay \
-    ShishuImmensityThemeSettingsOverlay \
-    ShishuImmensityThemeSystemUIOverlay \
-    ShishuNightsThemeAndroidOverlay \
-    ShishuNightsThemeSettingsOverlay \
-    ShishuNightsThemeSystemUIOverlay
+    AndroidVividThemeOverlay
 
 # Volume Styles
 PRODUCT_PACKAGES += \

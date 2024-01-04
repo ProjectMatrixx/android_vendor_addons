@@ -1,5 +1,0 @@
-runtime_resource_overlay {
-    name: "PacleggersThemeAndroidOverlay",
-    theme: "PacleggersThemeAndroid",
-    product_specific: true,
-}
