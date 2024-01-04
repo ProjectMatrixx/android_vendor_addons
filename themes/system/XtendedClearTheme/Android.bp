@@ -1,0 +1,5 @@
+runtime_resource_overlay {
+    name: "XtendedClearThemeOverlay",
+    theme: "XtendedClearTheme",
+    product_specific: true,
+}
