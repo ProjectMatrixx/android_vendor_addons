@@ -1,0 +1,5 @@
+runtime_resource_overlay {
+    name: "SolarizedDarkThemeOverlay",
+    theme: "SolarizedDarkTheme",
+    product_specific: true,
+}

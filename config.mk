@@ -347,6 +347,7 @@ PRODUCT_PACKAGES += \
     AndroidEspressoThemeOverlay \
     AndroidSnowPaintDropThemeOverlay \
     AndroidVividThemeOverlay \
+    SolarizedDarkThemeOverlay \
     XtendedClearThemeOverlay
 
 # Volume Styles
