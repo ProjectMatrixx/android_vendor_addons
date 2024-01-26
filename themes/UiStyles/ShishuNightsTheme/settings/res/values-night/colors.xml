@@ -13,5 +13,4 @@
 <resources>
     <color name="mtx_pref_ripple">#1fffffff</color>
     <color name="mtx_pref_color">#59000000</color>
-    <color name="xd_background1">@android:color/transparent</color>
 </resources>
