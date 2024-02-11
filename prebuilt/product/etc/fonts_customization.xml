@@ -414,6 +414,11 @@
         <font weight="300" style="normal">HotSweat.ttf</font>
     </family>
 
+    <!-- Ios -->
+    <family customizationType="new-named-family" name="Ios">
+        <font weight="300" style="normal">ios.ttf</font>
+    </family>
+
     <!-- Karamuruh -->
     <family customizationType="new-named-family" name="Karamuruh">
         <font weight="300" style="normal">Karamuruh.ttf</font>
