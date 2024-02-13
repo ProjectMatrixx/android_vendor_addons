@@ -13,4 +13,6 @@
 <resources>
     <color name="mtx_pref_ripple">#1fffffff</color>
     <color name="mtx_pref_color">#59000000</color>
+    <color name="user_crd_bg">#1fffffff</color>
+
 </resources>
