@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.android.settings.switch.style_emoji"
+    android:versionCode="1"
+    android:versionName="1.0">
+    <overlay android:targetPackage="com.android.settings" android:category="android.theme.customization.style.switch" android:priority="1"/>
+
+    <application android:label="Emoji" android:hasCode="false" android:allowBackup="false"/>
+</manifest>
