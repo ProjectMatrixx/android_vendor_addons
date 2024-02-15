@@ -375,6 +375,20 @@ PRODUCT_PACKAGES += \
     BrightnessSliderLineOverlay \
     BrightnessSliderLightyOverlay
 
+# Switch Styles
+PRODUCT_PACKAGES += \
+    Aosp \
+    Checkmark \
+    Emoji \
+    Foggy \
+    IOS \
+    Material \
+    Neumorph \
+    Outline \
+    Realme \
+    Shaded \
+    Tiny      
+
 # Themes
 PRODUCT_PACKAGES += \
     AndroidBlackThemeOverlay
