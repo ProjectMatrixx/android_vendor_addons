@@ -356,6 +356,39 @@ PRODUCT_PACKAGES += \
     XperiaWiFiOverlay \
     ZigZagWiFiOverlay
 
+# Brightness slider styles
+PRODUCT_PACKAGES += \
+    BrightnessSliderCyberpunkOverlay \
+    BrightnessSliderFilledOverlay \
+    BrightnessSliderGradientRoundedBarOverlay \
+    BrightnessSliderLineOverlay \
+    BrightnessSliderLightyOverlay \
+    BrightnessSliderLeafyOutlineOverlay \
+    BrightnessSliderMinimalThumbOverlay \
+    BrightnessSliderNeumorphOverlay \
+    BrightnessSliderOldSchoolThumbOverlay \
+    BrightnessSliderOutlineOverlay \
+    BrightnessSliderRoundedClipOverlay \
+    BrightnessSliderShadedOverlay \
+    BrightnessSliderThinOverlay \
+    BrightnessSliderThinOutlineOverlay \
+    BrightnessSliderThumbSliderOverlay \
+    BrightnessSliderTranslucentOverlay
+
+# Switch Styles
+PRODUCT_PACKAGES += \
+    Aosp \
+    Checkmark \
+    Emoji \
+    Foggy \
+    IOS \
+    Material \
+    Neumorph \
+    Outline \
+    Realme \
+    Shaded \
+    Tiny      
+
 # Themes
 PRODUCT_PACKAGES += \
     AndroidBlackThemeOverlay

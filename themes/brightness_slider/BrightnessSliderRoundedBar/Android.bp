@@ -1,0 +1,5 @@
+runtime_resource_overlay {
+    name: "BrightnessSliderRoundedBarOverlay",
+    theme: "BrightnessSliderRoundedBar",
+    product_specific: true,
+}
