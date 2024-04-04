@@ -1,6 +1,7 @@
 android_app_import {
     name: "Auxio",
     apk: "Auxio.apk",
+    preprocessed: true,
     presigned: true,
     product_specific: true,
     overrides: ["Eleven"],
