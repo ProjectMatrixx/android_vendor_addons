@@ -239,11 +239,15 @@ PRODUCT_PACKAGES += \
     IconShapeFlowerOverlay \
     IconShapeHeartOverlay \
     IconShapeHexagonOverlay \
+    IconShapeIosOverlay \
     IconShapeLeafOverlay \
     IconShapeMeowOverlay \
     IconShapePebbleOverlay \
     IconShapeRoundedHexagonOverlay \
     IconShapeRoundedRectOverlay \
+    IconShapeSamsungOverlay \
+    IconShapeScrollOverlay \
+    IconShapeStretchedOverlay \
     IconShapeSquareOverlay \
     IconShapeSquircleOverlay \
     IconShapeStretchedOverlay \
