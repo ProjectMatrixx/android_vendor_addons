@@ -603,6 +603,21 @@
     <alias name="play-semi-bold" to="play" weight="600" />
     <alias name="play-bold" to="play" weight="700" />
 
+    <!-- Poppins -->
+    <family customizationType="new-named-family" name="poppins">
+        <font weight="400" style="normal">Poppins-Regular.ttf</font>
+    </family>
+    <alias name="poppins-semi-bold" to="poppins" weight="600" />
+    <alias name="poppins-bold" to="poppins" weight="700" />
+    <alias name="times" to="poppins" />
+    <alias name="times new roman" to="poppins" />
+    <alias name="palatino" to="poppins" />
+    <alias name="georgia" to="poppins" />
+    <alias name="baskerville" to="poppins" />
+    <alias name="goudy" to="poppins" />
+    <alias name="fantasy" to="poppins" />
+    <alias name="ITC Stone Serif" to="poppins" />
+
     <!-- Quando -->
     <family customizationType="new-named-family" name="quando">
         <font weight="400" style="normal">Quando.ttf</font>
