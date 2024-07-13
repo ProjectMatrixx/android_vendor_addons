@@ -135,6 +135,9 @@ PRODUCT_PACKAGES += \
     ClockFontUbuntuOverlay \
     ClockFontVtksdura3dOverlay \
     ClockFontZnikomitNo24Overlay \
+    ClockFontIOSOverlay \
+    ClockFontHerculesOverlay \
+    ClockFontSlimOverlay \
     FontAccuratistOverlay \
     FontAclonicaOverlay \
     FontAmaranteOverlay \
