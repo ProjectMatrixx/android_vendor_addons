@@ -9,7 +9,7 @@
     <dimen name="qs_quick_tile_size">55dp</dimen>
     <dimen name="qs_tile_padding">10dp</dimen>
     <dimen name="qs_tile_text_size">12sp</dimen>
-    <dimen name="qs_tile_margin_vertical">6dp</dimen>
+    <dimen name="qs_tile_margin_vertical">16dp</dimen>
     
     <!-- QQS Brightness slider -->
     <dimen name="qqs_top_brightness_margin_top">-10dp</dimen>
