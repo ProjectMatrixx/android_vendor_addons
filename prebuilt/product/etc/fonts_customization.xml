@@ -700,6 +700,15 @@
         </font>
     </family>
 
+    <!--Google Sans -->
+    <family customizationType="new-named-family" name="google">
+        <font weight="400" style="normal">GoogleSans_New-Regular.ttf</font>
+    </family>
+    <alias name="google-light" to="google" weight="300" />
+    <alias name="google-medium" to="google" weight="500" />
+    <alias name="google-semi-bold" to="google" weight="600" />
+    <alias name="google-bold" to="google" weight="700" />
+
     <!-- GrandHotel -->
     <family customizationType="new-named-family" name="grandhotel">
         <font weight="400" style="normal">GrandHotel.ttf</font>
