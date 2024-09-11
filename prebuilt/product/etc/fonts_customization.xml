@@ -1164,6 +1164,15 @@
     <alias name="ubuntu-semi-bold" to="ubuntu" weight="600" />
     <alias name="ubuntu-bold" to="ubuntu" weight="700" />
 
+    <!--Volte -->
+    <family customizationType="new-named-family" name="volte">
+        <font weight="400" style="normal">VolteRounded-Regular.ttf</font>
+    </family>
+    <alias name="volte-light" to="volte" weight="300" />
+    <alias name="volte-medium" to="volte" weight="500" />
+    <alias name="volte-semi-bold" to="volte" weight="600" />
+    <alias name="volte-bold" to="volte" weight="700" />
+
     <!-- VTKSDURA3d -->
     <family customizationType="new-named-family" name="VTKSDURA3d">
         <font weight="300" style="normal">VTKSDURA3d.ttf</font>
