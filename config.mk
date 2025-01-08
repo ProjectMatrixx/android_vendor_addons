@@ -268,7 +268,9 @@ PRODUCT_PACKAGES += \
 
 # Navbar
 PRODUCT_PACKAGES += \
+    GesturalNavigationNarrowSpace \
     GesturalNavigationNoHint \
+    GesturalNavigationNoSpace \
     GesturalNavigationOverlayLong \
     GesturalNavigationOverlayMedium
 
