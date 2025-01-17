@@ -297,6 +297,10 @@ PRODUCT_PACKAGES += \
     QSSurround \
     QSThin
 
+# Notification Themes
+PRODUCT_PACKAGES += \
+        NotifFluid \
+
 # Signal Icons
 PRODUCT_PACKAGES += \
     AquariumSignalOverlay \
