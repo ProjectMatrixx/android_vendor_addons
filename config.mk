@@ -170,6 +170,7 @@ PRODUCT_PACKAGES += \
     FontSanFranciscoDisplayProSourceOverlay \
     FontSamsungOneOverlay \
     FontSansSerifOverlay \
+    FontSansSerifProOverlay \
     FontSonySketchOverlay \
     FontStoropiaOverlay \
     FontSurferOverlay \
