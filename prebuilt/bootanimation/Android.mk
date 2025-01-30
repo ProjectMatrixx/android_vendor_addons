@@ -30,10 +30,7 @@ $(TARGET_GENERATED_BOOTANIMATION): $(SOONG_ZIP)
 	IMAGESCALEWIDTH=$$IMAGEWIDTH; \
 	IMAGESCALEHEIGHT=$$(expr $$IMAGESCALEWIDTH \* 16 \/ 9); \
 	RESOLUTION="$$IMAGESCALEWIDTH"x"$$IMAGESCALEHEIGHT"; \
-	if [ "$$IMAGESCALEWIDTH" -eq 1440 ]; then \
-	    tar xfp vendor/addons/prebuilt/bootanimation/bootanimation_1440.tar -C $(INTERMEDIATES); \
-            echo "1440 1440 $(BOOTFPS)" > $(INTERMEDIATES)/desc.txt; \
-	elif [ "$$IMAGESCALEWIDTH" -eq 1080 ]; then \
+	if [ "$$IMAGESCALEWIDTH" -eq 1080 ]; then \
 	    tar xfp vendor/addons/prebuilt/bootanimation/bootanimation_1080.tar -C $(INTERMEDIATES); \
             echo "1080 1080 $(BOOTFPS)" > $(INTERMEDIATES)/desc.txt; \
 	else \
