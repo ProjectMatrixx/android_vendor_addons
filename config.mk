@@ -372,6 +372,10 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     Bcr
 
+# StatusBarLyricExt
+PRODUCT_PACKAGES += \
+   StatusBarLyricExt
+
 # Include {Lato,Rubik} fonts
 $(call inherit-product-if-exists, external/google-fonts/lato/fonts.mk)
 $(call inherit-product-if-exists, external/google-fonts/rubik/fonts.mk)

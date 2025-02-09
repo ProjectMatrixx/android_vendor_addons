@@ -1,0 +1,20 @@
+prebuilt_etc {
+    name: "privapp-permissions-io.cjybyjk.statuslyricext.xml",
+    src: "privapp-permissions-io.cjybyjk.statuslyricext.xml",
+    product_specific: true,
+    relative_install_path: "permissions",
+}
+
+android_app_import {
+    name: "StatusBarLyricExt",
+    apk: "StatusBarLyricExt.apk",
+    preprocessed: true,
+    presigned: true,
+    product_specific: true,
+    dex_preopt: {
+        enabled: false,
+    },
+    required: [
+        "privapp-permissions-io.cjybyjk.statuslyricext.xml",
+    ],
+}
