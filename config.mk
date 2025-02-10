@@ -165,6 +165,7 @@ PRODUCT_PACKAGES += \
     FontGrandHotelOverlay \
     FontGoogleSansFlexOverlay \
     FontGoogleSansOverlay \
+    FontGeneralSansOverlay \
     FontHarmonySansOverlay \
     FontLatoOverlay \
     FontLinotteOverlay \
