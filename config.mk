@@ -370,8 +370,10 @@ PRODUCT_PACKAGES += \
     BetterQS
 
 # Basic Call Recorder
+ifeq ($(TARGET_SUPPORTS_GSUITE),true)
 PRODUCT_PACKAGES += \
     Bcr
+endif
 
 # StatusBarLyricExt
 PRODUCT_PACKAGES += \
