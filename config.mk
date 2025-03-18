@@ -370,10 +370,8 @@ PRODUCT_PACKAGES += \
     BetterQS
 
 # Basic Call Recorder
-ifeq ($(TARGET_HAS_WIFIONLY),true)
 PRODUCT_PACKAGES += \
     Bcr
-endif
 
 # StatusBarLyricExt
 PRODUCT_PACKAGES += \
