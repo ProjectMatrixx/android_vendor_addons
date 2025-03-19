@@ -6785,6 +6785,7 @@
     <icon drawable="@drawable/stemz" package="com.mwm.stems" />
     <icon drawable="@drawable/stepik" package="org.stepic.droid" />
     <icon drawable="@drawable/stepsapp" package="com.stepsappgmbh.stepsapp" />
+    <icon drawable="@drawable/stepsapp" package="stepcounter.pedometer.stepstracker" />
     <icon drawable="@drawable/stern_pinball_ic" package="com.stern.insiderconnected.android" />
     <icon drawable="@drawable/stick_with_it" package="com.trickshotlabs.stickwithit" />
     <icon drawable="@drawable/sticker_maker" package="com.marsvard.stickermakerforwhatsapp" />
@@ -6793,6 +6794,7 @@
     <icon drawable="@drawable/stickify" package="com.wastickerapps.stickerstore" />
     <icon drawable="@drawable/stickman_hook" package="com.mindy.grap1" />
     <icon drawable="@drawable/stickman_party" package="com.PlayMax.playergames" />
+    <icon drawable="@drawable/stickman_party" package="com.byril.stickmanarcher" />
     <icon drawable="@drawable/stimuler" package="com.stimuler" />
     <icon drawable="@drawable/stitch" package="soko.ekibun.stitch" />
     <icon drawable="@drawable/stocard" package="de.stocard.stocard" />
