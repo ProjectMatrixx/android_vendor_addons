@@ -16,4 +16,5 @@
 
 # Nexus Overlays
 PRODUCT_PACKAGES += \
-    PixelLauncherOverlayCustom
+    PixelLauncherOverlayCustom \
+    PixelLauncherNoGestureHintOverlay

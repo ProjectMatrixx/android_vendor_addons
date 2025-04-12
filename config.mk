@@ -402,6 +402,5 @@ $(call inherit-product-if-exists, external/google-fonts/rubik/fonts.mk)
 PRODUCT_COPY_FILES += \
     $(call find-copy-subdir-files,*,vendor/addons/prebuilt/product/fonts,$(TARGET_COPY_OUT_PRODUCT)/fonts)
 
-
 # Inherit from rro_overlays config
 $(call inherit-product, vendor/addons/config/rro_overlays.mk)
