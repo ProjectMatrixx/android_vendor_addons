@@ -288,6 +288,20 @@ PRODUCT_PACKAGES += \
     IconShapeVesselOverlay
 
 # Navbar styles
+ifeq ($(WITH_GMS),true)
+PRODUCT_PACKAGES += \
+    NavbarAndroidPixelLauncherOverlay \
+    NavbarAsusPixelLauncherOverlay \
+    NavbarDoraPixelLauncherOverlay \
+    NavbarRisingPixelLauncherOverlay \
+    NavbarMotoPixelLauncherOverlay \
+    NavbarNexusPixelLauncherOverlay \
+    NavbarOldPixelLauncherOverlay \
+    NavbarOnePlusPixelLauncherOverlay \
+    NavbarOneUiPixelLauncherOverlay \
+    NavbarSammyPixelLauncherOverlay \
+    NavbarTecnoCamonPixelLauncherOverlay
+else
 PRODUCT_PACKAGES += \
     NavbarAndroidOverlay \
     NavbarAsusOverlay \
@@ -299,6 +313,7 @@ PRODUCT_PACKAGES += \
     NavbarOneUiOverlay \
     NavbarSammyOverlay \
     NavbarTecnoCamonOverlay
+endif
 
 # Power Menu Themes
 PRODUCT_PACKAGES += \
