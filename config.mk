@@ -377,8 +377,10 @@ PRODUCT_PACKAGES += \
     BetterQS
 
 # Basic Call Recorder
+ifeq ($(WITH_GMS_COMMS_SUITE),true)
 PRODUCT_PACKAGES += \
     Bcr
+endif
 
 # Include {Lato,Rubik} fonts
 $(call inherit-product-if-exists, external/google-fonts/lato/fonts.mk)
