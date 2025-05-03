@@ -281,6 +281,10 @@ PRODUCT_PACKAGES += \
     NavbarSammyOverlay \
     NavbarTecnoCamonOverlay
 
+# Hide IME navbar
+PRODUCT_PACKAGES += \
+    KeyboardNoNavigationBar
+
 # Notification Themes
 PRODUCT_PACKAGES += \
     NotifCyberPunk \
