@@ -134,6 +134,7 @@ PRODUCT_PACKAGES += \
     ClockFontTh3machineOverlay \
     ClockFontUbuntuOverlay \
     ClockFontVtksdura3dOverlay \
+    ClockFontVolteOverlay \
     ClockFontZnikomitNo24Overlay \
     FontAccuratistOverlay \
     FontAclonicaOverlay \
