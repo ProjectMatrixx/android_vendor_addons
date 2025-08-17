@@ -1386,6 +1386,7 @@
     <icon drawable="@drawable/business_calendar" package="com.appgenix.bizcal" />
     <icon drawable="@drawable/business_db_navigator" package="de.hafas.android.db.business" />
     <icon drawable="@drawable/busnavi" package="pl.mobicore.mobilempk" />
+    <icon drawable="@drawable/busnavi" package="bus.tickets.intrcity" />
     <icon drawable="@drawable/busuu" package="com.busuu.android.enc" />
     <icon drawable="@drawable/busybox" package="stericson.busybox" />
     <icon drawable="@drawable/button_mapper" package="flar2.homebutton" />
@@ -4218,6 +4219,7 @@
     <icon drawable="@drawable/instacart" package="com.instacart.client" />
     <icon drawable="@drawable/instaddr" package="air.kukulive.mailnow" />
     <icon drawable="@drawable/instagram" package="com.instagram.android" />
+    <icon drawable="@drawable/instagram" package="com.instaprime.android" />
     <icon drawable="@drawable/instagram" package="com.instagram.lite" />
     <icon drawable="@drawable/instagram" package="com.instapro.android" />
     <icon drawable="@drawable/instagram" package="com.instapro2.android" />
@@ -5617,6 +5619,7 @@
     <icon drawable="@drawable/my_huawei" package="com.huawei.phoneservice" />
     <icon drawable="@drawable/my_indihome" package="com.telkom.indihome.external" />
     <icon drawable="@drawable/my_kyivstar" package="com.kyivstar.mykyivstar" />
+    <icon drawable="@drawable/my_kyivstar" package="com.star.customer_app" />
     <icon drawable="@drawable/my_learning" package="com.crossknowledge.learnguided" />
     <icon drawable="@drawable/my_location" package="com.mirfatif.mylocation" />
     <icon drawable="@drawable/my_megafon" package="ru.megafon.mlk" />
@@ -5818,6 +5821,7 @@
     <icon drawable="@drawable/netease_music" package="com.netease.cloudmusic" />
     <icon drawable="@drawable/netflix" package="com.netflix.mediaclient" />
     <icon drawable="@drawable/netflix" package="com.netflix.mediaclieog" />
+    <icon drawable="@drawable/netmirror" package="app.netmirror.netmirrornew" />
     <icon drawable="@drawable/netguard" package="com.bintianqi.owndroid" />
     <icon drawable="@drawable/netguard" package="eu.faircode.netguard" />
     <icon drawable="@drawable/netmeds" package="com.NetmedsMarketplace.Netmeds" />
@@ -7978,6 +7982,7 @@
     <icon drawable="@drawable/stemz" package="com.mwm.stems" />
     <icon drawable="@drawable/stepik" package="org.stepic.droid" />
     <icon drawable="@drawable/stepsapp" package="com.stepsappgmbh.stepsapp" />
+    <icon drawable="@drawable/stepsapp" package="stepcounter.pedometer.stepstracker" />
     <icon drawable="@drawable/stern_pinball_ic" package="com.stern.insiderconnected.android" />
     <icon drawable="@drawable/stick_with_it" package="com.trickshotlabs.stickwithit" />
     <icon drawable="@drawable/sticker_ly" package="com.snowcorp.stickerly.android" />
@@ -7986,6 +7991,7 @@
     <icon drawable="@drawable/stickify" package="com.wastickerapps.stickerstore" />
     <icon drawable="@drawable/stickman_hook" package="com.mindy.grap1" />
     <icon drawable="@drawable/stickman_party" package="com.PlayMax.playergames" />
+    <icon drawable="@drawable/stickman_party" package="com.byril.stickmanarcher" />
     <icon drawable="@drawable/stimuler" package="com.stimuler" />
     <icon drawable="@drawable/stitch" package="soko.ekibun.stitch" />
     <icon drawable="@drawable/stocard" package="de.stocard.stocard" />
