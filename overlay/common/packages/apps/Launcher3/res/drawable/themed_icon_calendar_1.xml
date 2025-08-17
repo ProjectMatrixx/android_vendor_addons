@@ -1,10 +1,12 @@
-<?xml version='1.0' encoding='utf-8' ?>
-<vector android:height="@dimen/theme_icon_size"
-        android:width="@dimen/theme_icon_size"
-        android:viewportWidth="36.0"
-        android:viewportHeight="36.0" xmlns:android="http://schemas.android.com/apk/res/android">
-  <path android:fillColor="@android:color/white"
-        android:pathData="M30 24.255L24.255 30H6V6H30V24.255ZM6 3C4.35 3 3 4.35 3 6V30C3 31.65 4.35 33 6 33H25.5L33 25.5V6C33 4.35 31.65 3 30 3H6Z" />
-  <path android:fillColor="@android:color/white"
-        android:pathData="M17.97 22.75V14.542L16.322 15.742L15.266 14.126L18.482 11.806H20.066V22.75H17.97Z" />
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt"
+    android:viewportWidth="192"
+    android:viewportHeight="192"
+    android:width="192dp"
+    android:height="192dp">
+    <path
+        android:pathData="M25 41c0 -8.837 7.163 -16 16 -16h110c8.837 0 16 7.163 16 16v87.373a16 16 0 0 1 -4.686 11.313l-22.628 22.628A16 16 0 0 1 128.373 167H41c-8.837 0 -16 -7.163 -16 -16zm73 29v48M85 79l13 -9m-13 48h26"
+        android:strokeColor="#000000"
+        android:strokeWidth="12"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
 </vector>
