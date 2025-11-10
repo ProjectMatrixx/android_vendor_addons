@@ -385,10 +385,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     AndroidBlackThemeOverlay
 
-# BetterQS
-PRODUCT_PACKAGES += \
-    BetterQS
-
 # Basic Call Recorder
 ifeq ($(WITH_GMS_COMMS_SUITE),true)
 PRODUCT_PACKAGES += \
