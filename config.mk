@@ -150,47 +150,16 @@ PRODUCT_PACKAGES += \
     ClockFontSlimOverlay \
     ClockFontNtype82Overlay \
     ClockFontSubwayOverlay \
-    FontAccuratistOverlay \
-    FontAclonicaOverlay \
-    FontAmaranteOverlay \
-    FontBariolOverlay \
-    FontCagliostroOverlay \
     FontCoconOverlay \
-    FontComfortaaOverlay \
-    FontComicSansOverlay \
-    FontCookieRunOverlay \
-    FontCoolstoryOverlay \
-    FontExotwoOverlay \
-    FontFifa2018Overlay \
-    FontGrandHotelOverlay \
     FontGoogleSansFlexOverlay \
     FontGoogleSansOverlay \
     FontGeneralSansOverlay \
     FontHarmonySansOverlay \
-    FontLatoOverlay \
     FontLinotteOverlay \
-    FontNokiaPureOverlay \
-    FontNothingDotHeadlineOverlay \
-    FontNothingDotOverlay \
-    FontNunitoOverlay \
-    FontOneplusSansOverlay \
-    FontOneplusSlateOverlay \
     FontPoppinsSourceOverlay \
-    FontOswaldOverlay \
-    FontPlayOverlay \
-    FontQuandoOverlay \
-    FontRedressedOverlay \
-    FontReemKufiOverlay \
     FontRobotoCondensedOverlay \
     FontRookeryOverlay \
-    FontRubikOverlay \
-    FontSanFranciscoDisplayProSourceOverlay \
-    FontSamsungOneOverlay \
-    FontSansSerifOverlay \
-    FontSansSerifProOverlay \
     FontSonySketchOverlay \
-    FontStoropiaOverlay \
-    FontSurferOverlay \
     FontUbuntuOverlay \
     FontVolteOverlay
 
